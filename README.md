@@ -11,7 +11,7 @@ There are 2 assignments
 - de_challenge_data.xlsx
   
 ## Materials
-- Coraline-DE Challenge.ipynb : Provide instructions on how to solve each assignment.
+- Coraline_DE_Challenge.ipynb: Provide instructions on how to solve each assignment.
 
 ## Result
 ### Assignment No. 1 : Preview table food_sales from Postgresql
