@@ -11,8 +11,10 @@ There are 2 assignments
 - de_challenge_data.xlsx
   
 ## Materials
-- Coraline_DE_Challenge.ipynb: Provide instructions on how to solve each assignment.
-
+1. Python script
+   - Coraline_DE_Challenge.ipynb: provide instructions on how to solve each assignment.
+2. SQL script
+   - assignment2: provide script for solve assignment No.2 .
 ## Result
 ### Assignment No. 1 : Preview table food_sales from Postgresql
 ![image](https://github.com/fchakkapat/Coraline-DE/assets/127225302/39384e37-b219-4065-9a66-8958316bfc83)
