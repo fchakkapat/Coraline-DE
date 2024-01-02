@@ -9,6 +9,7 @@ There are 2 assignments
 
 ## Data source
 - de_challenge_data.xlsx
+- config.ini
   
 ## Materials
 1. Python script
